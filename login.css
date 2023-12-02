@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(46, 11, 11);
+}
+fieldset{
+    border: solid 10px rgb(99, 99, 117);
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+}
+legend{
+    font-size: larger;
+    color: bisque;
+font-style:italic;
+}
+.label1{
+    color: bisque;
+    font-style: italic;
+}
+.input1{
+    background-color:rgb(99, 99, 117);
+    
+}
+.label2{
+    color: bisque;
+    font-style: italic;
+}
+.input2{
+    background-color: rgb(99, 99, 117);
+}
+.label3{
+    color: bisque;
+    font-style: italic;
+}
+.input3{
+    background-color: rgb(99, 99, 117);
+}
+.label4{
+    color: bisque;
+    font-style: italic;
+}
+.input4{
+    background-color: rgb(99, 99, 117);
+}
+.label5{
+    color: bisque;
+    font-style: italic;
+}
+.input5{
+    background-color: rgb(99, 99, 117);
+}
+.labelbtn1{
+    color: bisque;
+    font-style: italic;
+}
+.inputbtn1{
+    block-size: 50px;
+    width: 500px;
+    height: 30px;
+    background-color: bisque;
+}
+.labelbtn2{
+    color: bisque;
+    font-style: italic;
+}
+.inputbtn2{
+    block-size: 50px;
+    width: 500px;
+    height: 30px;
+    background-color: bisque;
+}
+.byphilo{
+    color: bisque;
+    font-style: italic;
+}
